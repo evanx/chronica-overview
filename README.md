@@ -25,6 +25,8 @@ But monitoring software is fun to develop, and generally quite useful. So Chroni
 
 ### Chronica overview
 
+The following services are envisaged.
+
 * example "agent" script (Node)
 * admin console (ReactJS)
 * API gateway (Node)
@@ -42,6 +44,10 @@ But monitoring software is fun to develop, and generally quite useful. So Chroni
 #### cert service 
 
 https://github.com/evanx/certserver - certificate enrollment, management and authentication
+
+#### active monitoring 
+
+https://github.com/evanx/chronica-active - active monitoring of urls
 
 
 ### Other resources
