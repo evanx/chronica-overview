@@ -19,7 +19,7 @@
   "dependencies": {
     "async": "^0.9.0",
     "eslint": "^6.0.1",
-    "lodash": "^3.5.0",
+    "lodash": "^4.17.14",
     "redis": "^0.12.1",
     "redis-client": "^0.3.5",
     "winston": "^0.9.0"
