@@ -18,8 +18,8 @@
   "homepage": "https://github.com/evanx/chronica",
   "dependencies": {
     "async": "^0.9.0",
-    "eslint": "^6.0.1",
-    "lodash": "^4.17.14",
+    "eslint": "^6.2.2",
+    "lodash": "^4.17.15",
     "redis": "^0.12.1",
     "redis-client": "^0.3.5",
     "winston": "^0.9.0"
